@@ -1,2 +1,2 @@
-#!/bin/bash
-alias ls="rm *"
+
+my first 0 task
